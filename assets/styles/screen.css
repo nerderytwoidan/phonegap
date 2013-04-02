@@ -328,7 +328,29 @@ textarea {
 
 }
 
+/* ---------------------------------------------------------------------
+ Media object
+------------------------------------------------------------------------ */
+.media {
+    overflow: hidden;
+}
 
+.media-ele {
+    float: left;
+    margin: 0 20px 0 0;
+}
+
+.media-ele > * {
+    display: block;
+}
+
+.media-bd {
+    overflow: hidden;
+}
+
+.media-bd > * + * {
+    margin-top: 20px
+}
 
 
 
