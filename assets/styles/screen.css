@@ -252,7 +252,7 @@ textarea {
 .hdr_emphasisSml { margin: 10px; }
 .hdr_emphasisLrg { margin: 35px; }
 
-/***** Modifiers *****/
+/* ----- Modifiers ----- */
 .mix-hdr_center { text-align: center; }
 .mix-hdr_right  { text-align: right; }
 
@@ -271,7 +271,6 @@ textarea {
 .btn:hover {
 
 }
-
 
 
 /* ---------------------------------------------------------------------
@@ -298,11 +297,36 @@ textarea {
 
 }
 
+/* ---------------------------------------------------------------------
+ Boxes
+------------------------------------------------------------------------ */
+.box {
 
+}
 
+/* ----- Box variations ----- */
+.box_subclass {
 
+}
 
+/* ----- Box headers ----- */
+.box-hd { padding: 8px 10px; }
 
+.box-hd_compact { padding: 5px; }
+.box-hd_roomy   { padding: 15px; }
+.box-hd_fat     { padding: 25px; }
+
+/* ----- Box bodies ----- */
+.box-bd { padding: 10px; }
+
+.box-bd_compact { padding: 5px; }
+.box-bd_roomy   { padding: 15px; }
+.box-bd_fat     { padding: 25px; }
+
+/* ----- Box footers ----- */
+.box-ft {
+
+}
 
 
 
