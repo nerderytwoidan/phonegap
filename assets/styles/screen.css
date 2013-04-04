@@ -149,18 +149,18 @@ textarea {
     padding: 0 1.01466%;
 }
 
-.mix-grid-col_size1of12  { width: 8.33333%; }
-.mix-grid-col_size2of12  { width: 16.66666%; }
-.mix-grid-col_size3of12  { width: 25%; }
-.mix-grid-col_size4of12  { width: 33.33333%; }
-.mix-grid-col_size5of12  { width: 41.66666%; }
-.mix-grid-col_size6of12  { width: 50%; }
-.mix-grid-col_size7of12  { width: 58.33333%; }
-.mix-grid-col_size8of12  { width: 66.66666%; }
-.mix-grid-col_size9of12  { width: 75%; }
-.mix-grid-col_size10of12 { width: 83.33333%; }
-.mix-grid-col_size11of12 { width: 91.66666%; }
-.mix-grid-col_size12of12 { width: 100%; }
+.size1of12  { width: 8.33333%; }
+.size2of12  { width: 16.66666%; }
+.size3of12  { width: 25%; }
+.size4of12  { width: 33.33333%; }
+.size5of12  { width: 41.66666%; }
+.size6of12  { width: 50%; }
+.size7of12  { width: 58.33333%; }
+.size8of12  { width: 66.66666%; }
+.size9of12  { width: 75%; }
+.size10of12 { width: 83.33333%; }
+.size11of12 { width: 91.66666%; }
+.size12of12 { width: 100%; }
 
 /* ----- Column variations ----- */
 .mix-grid-col_thin {
